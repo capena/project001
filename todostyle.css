@@ -6,5 +6,10 @@
 
 h2.header {
 	text-align: center;
-	background-image: url(productivity.jpeg);
+}
+
+img {
+	margin: auto;
+	display: block;
+	width: 100%;
 }
